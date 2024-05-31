@@ -8,6 +8,6 @@
 - **Программирование**: HTML, CSS, JavaScript, PHP, Python. (HTML не является языком, но просто добавил)
 
 
-- **Discord**: WillySleep#4898
+- **Discord**: willysleep (Старый: WillySleep#4898)
 
 Ну что-ж... Еще увидмся! И.. удачки! ^-^
