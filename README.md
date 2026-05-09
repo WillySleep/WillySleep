@@ -7,9 +7,16 @@
 
 ---
 
+### 🛠️ В процессе разработки...
+
+![AlulLock](https://img.shields.io/badge/AlulLock-006699?style=for-the-badge&logo=mdbook&logoColor=white)
+<br/>*Новелла о том, как порой трудно отпустить прошлое*<br/>*и как внезапные события на новом месте могут изменить человека.*
+
+---
+
 ### 💻 Стек разработки
 
-**Frontend:**  
+#### Frontend:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -17,7 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-**Backend:**  
+#### Backend:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,19 +39,12 @@
 
 ---
 
-### 🛠️ Проекты 
-
-- 📖 **AlulLock** — *В процессе разработки... (скоро появится ссылка)*
-
----
-
-### 📞 Контакты
+### 📞 Контакты *(возьми телефон детка)*
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/willysleep)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/willysleep)
-<br/>*(старый: WillySleep#4898)*
+<!-- *(старый: WillySleep#4898)* -->
 
-Я всегда рад новым знакомствам, так что смело пишите!
+<!-- Я всегда рад новым знакомствам, так что смело пишите! -->
 
----
 *Ну что ж... Еще увидимся! И удачки! ^-^* ✨
